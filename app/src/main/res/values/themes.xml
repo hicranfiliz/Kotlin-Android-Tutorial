@@ -3,6 +3,8 @@
     <style name="Base.Theme.SampleApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/card_bg</item>
+        <item name="colorPrimaryVariant">@color/layout_background</item>
     </style>
 
     <style name="Theme.SampleApp" parent="Base.Theme.SampleApp" />
